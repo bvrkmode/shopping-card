@@ -1,0 +1,8 @@
+{
+    "products": [
+        {"id": 0, "name": "Resistance band", "description": "Colorful resistance bands", "price": 8.99, "currency": "TRY", "image": "https://image.shutterstock.com/image-photo/set-colorful-resistance-bandsdoor-anchor-600w-1724647678.jpg",  "quantity": 5},
+        {"id": 1 , "name": "Telephone", "description": "Old red rotary dial telephone", "price": 45.99, "currency": "TRY", "image": "https://image.shutterstock.com/image-photo/old-red-rotary-dial-telephone-600w-1936446373.jpg",  "quantity": 13},
+        {"id": 2 , "name": "Laptop", "description": "Laptop", "price": 80.99, "currency": "TRY", "image": "https://image.shutterstock.com/image-photo/laptop-blank-screen-on-table-600w-340152863.jpg",  "quantity": 25},
+        {"id": 3 , "name": "Table", "description": "Brown light wooden round dining", "price": 22.53, "currency": "TRY", "image": "https://image.shutterstock.com/image-photo/brown-light-wooden-round-dining-600w-588358070.jpg",  "quantity": 11}
+    ]
+}
